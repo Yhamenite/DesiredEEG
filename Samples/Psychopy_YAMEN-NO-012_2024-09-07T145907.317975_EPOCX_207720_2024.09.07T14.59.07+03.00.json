@@ -1,0 +1,367 @@
+{
+    "Markers": [
+        {
+            "deleted": false,
+            "endDatetime": "2024-09-07T14:59:16.458307+03:00",
+            "extras": {
+            },
+            "index": 1,
+            "label": "speech_start",
+            "originalEndDatetime": "2024-09-07T14:59:16.459000+03:00",
+            "originalStartDatetime": "2024-09-07T14:59:16.459000+03:00",
+            "port": "psychopy",
+            "startDatetime": "2024-09-07T14:59:16.458307+03:00",
+            "type": "instance",
+            "uuid": "eed33e9d-a12d-4d0c-83af-649f3552e9f9",
+            "value": "1"
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-09-07T14:59:18.445494+03:00",
+            "extras": {
+            },
+            "index": 2,
+            "label": "speech_end",
+            "originalEndDatetime": "2024-09-07T14:59:18.445000+03:00",
+            "originalStartDatetime": "2024-09-07T14:59:18.445000+03:00",
+            "port": "psychopy",
+            "startDatetime": "2024-09-07T14:59:18.445494+03:00",
+            "type": "instance",
+            "uuid": "7fbc12d4-2362-4b44-89a4-a78c8b098a70",
+            "value": "1"
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-09-07T14:59:25.461161+03:00",
+            "extras": {
+            },
+            "index": 3,
+            "label": "imagine_start",
+            "originalEndDatetime": "2024-09-07T14:59:25.461000+03:00",
+            "originalStartDatetime": "2024-09-07T14:59:25.461000+03:00",
+            "port": "psychopy",
+            "startDatetime": "2024-09-07T14:59:25.461161+03:00",
+            "type": "instance",
+            "uuid": "302eb00e-a7c1-477a-af3b-8ffcf73b643f",
+            "value": "1"
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-09-07T14:59:27.460060+03:00",
+            "extras": {
+            },
+            "index": 4,
+            "label": "imagine_end",
+            "originalEndDatetime": "2024-09-07T14:59:27.460000+03:00",
+            "originalStartDatetime": "2024-09-07T14:59:27.460000+03:00",
+            "port": "psychopy",
+            "startDatetime": "2024-09-07T14:59:27.460060+03:00",
+            "type": "instance",
+            "uuid": "0ae93360-d43b-487e-9b49-17b8101cfe36",
+            "value": "1"
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-09-07T14:59:37.138324+03:00",
+            "extras": {
+            },
+            "index": 5,
+            "label": "speech_start",
+            "originalEndDatetime": "2024-09-07T14:59:37.139000+03:00",
+            "originalStartDatetime": "2024-09-07T14:59:37.139000+03:00",
+            "port": "psychopy",
+            "startDatetime": "2024-09-07T14:59:37.138324+03:00",
+            "type": "instance",
+            "uuid": "5a0f1736-3ae8-45c4-b3f5-2e45a45f0b82",
+            "value": "1"
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-09-07T14:59:39.141127+03:00",
+            "extras": {
+            },
+            "index": 6,
+            "label": "speech_end",
+            "originalEndDatetime": "2024-09-07T14:59:39.142000+03:00",
+            "originalStartDatetime": "2024-09-07T14:59:39.142000+03:00",
+            "port": "psychopy",
+            "startDatetime": "2024-09-07T14:59:39.141127+03:00",
+            "type": "instance",
+            "uuid": "6bb3eb38-d2a0-462e-a1a4-74d93966a8c3",
+            "value": "1"
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-09-07T14:59:46.141179+03:00",
+            "extras": {
+            },
+            "index": 7,
+            "label": "imagine_start",
+            "originalEndDatetime": "2024-09-07T14:59:46.142000+03:00",
+            "originalStartDatetime": "2024-09-07T14:59:46.142000+03:00",
+            "port": "psychopy",
+            "startDatetime": "2024-09-07T14:59:46.141179+03:00",
+            "type": "instance",
+            "uuid": "f237365a-4019-4a92-81ae-2bb7371a8803",
+            "value": "1"
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-09-07T14:59:48.140078+03:00",
+            "extras": {
+            },
+            "index": 8,
+            "label": "imagine_end",
+            "originalEndDatetime": "2024-09-07T14:59:48.142000+03:00",
+            "originalStartDatetime": "2024-09-07T14:59:48.142000+03:00",
+            "port": "psychopy",
+            "startDatetime": "2024-09-07T14:59:48.140078+03:00",
+            "type": "instance",
+            "uuid": "7c7d553d-eea4-4e90-b716-7822b446b279",
+            "value": "1"
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-09-07T14:59:57.654369+03:00",
+            "extras": {
+            },
+            "index": 9,
+            "label": "speech_start",
+            "originalEndDatetime": "2024-09-07T14:59:57.654000+03:00",
+            "originalStartDatetime": "2024-09-07T14:59:57.654000+03:00",
+            "port": "psychopy",
+            "startDatetime": "2024-09-07T14:59:57.654369+03:00",
+            "type": "instance",
+            "uuid": "97ba85e1-51b4-4f48-860f-1c0756288da6",
+            "value": "1"
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-09-07T14:59:59.657173+03:00",
+            "extras": {
+            },
+            "index": 10,
+            "label": "speech_end",
+            "originalEndDatetime": "2024-09-07T14:59:59.656000+03:00",
+            "originalStartDatetime": "2024-09-07T14:59:59.656000+03:00",
+            "port": "psychopy",
+            "startDatetime": "2024-09-07T14:59:59.657173+03:00",
+            "type": "instance",
+            "uuid": "5f4ed5dc-4c0c-47c1-9c15-4e8bae9adf49",
+            "value": "1"
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-09-07T15:00:06.657224+03:00",
+            "extras": {
+            },
+            "index": 11,
+            "label": "imagine_start",
+            "originalEndDatetime": "2024-09-07T15:00:06.658000+03:00",
+            "originalStartDatetime": "2024-09-07T15:00:06.658000+03:00",
+            "port": "psychopy",
+            "startDatetime": "2024-09-07T15:00:06.657224+03:00",
+            "type": "instance",
+            "uuid": "adeea900-33b8-49c4-b7bc-57d1701f80e8",
+            "value": "1"
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-09-07T15:00:08.660027+03:00",
+            "extras": {
+            },
+            "index": 12,
+            "label": "imagine_end",
+            "originalEndDatetime": "2024-09-07T15:00:08.659000+03:00",
+            "originalStartDatetime": "2024-09-07T15:00:08.659000+03:00",
+            "port": "psychopy",
+            "startDatetime": "2024-09-07T15:00:08.660027+03:00",
+            "type": "instance",
+            "uuid": "1f3b8778-e7a4-45c4-bba0-eb47276d7f92",
+            "value": "1"
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-09-07T15:00:17.959593+03:00",
+            "extras": {
+            },
+            "index": 13,
+            "label": "speech_start",
+            "originalEndDatetime": "2024-09-07T15:00:17.958000+03:00",
+            "originalStartDatetime": "2024-09-07T15:00:17.958000+03:00",
+            "port": "psychopy",
+            "startDatetime": "2024-09-07T15:00:17.959593+03:00",
+            "type": "instance",
+            "uuid": "8da0db36-a13c-4ba8-9f31-13d2fdb3bd90",
+            "value": "1"
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-09-07T15:00:19.954588+03:00",
+            "extras": {
+            },
+            "index": 14,
+            "label": "speech_end",
+            "originalEndDatetime": "2024-09-07T15:00:19.955000+03:00",
+            "originalStartDatetime": "2024-09-07T15:00:19.955000+03:00",
+            "port": "psychopy",
+            "startDatetime": "2024-09-07T15:00:19.954588+03:00",
+            "type": "instance",
+            "uuid": "178e548f-5fe9-4026-957b-d07c46e09023",
+            "value": "1"
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-09-07T15:00:26.954639+03:00",
+            "extras": {
+            },
+            "index": 15,
+            "label": "imagine_start",
+            "originalEndDatetime": "2024-09-07T15:00:26.955000+03:00",
+            "originalStartDatetime": "2024-09-07T15:00:26.955000+03:00",
+            "port": "psychopy",
+            "startDatetime": "2024-09-07T15:00:26.954639+03:00",
+            "type": "instance",
+            "uuid": "bfc2054b-f9a5-45cd-8a30-e79a49f50a04",
+            "value": "1"
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-09-07T15:00:28.953539+03:00",
+            "extras": {
+            },
+            "index": 16,
+            "label": "imagine_end",
+            "originalEndDatetime": "2024-09-07T15:00:28.954000+03:00",
+            "originalStartDatetime": "2024-09-07T15:00:28.954000+03:00",
+            "port": "psychopy",
+            "startDatetime": "2024-09-07T15:00:28.953539+03:00",
+            "type": "instance",
+            "uuid": "3b7d6c23-4880-4171-bf60-b29feb105296",
+            "value": "1"
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-09-07T15:00:38.420981+03:00",
+            "extras": {
+            },
+            "index": 17,
+            "label": "speech_start",
+            "originalEndDatetime": "2024-09-07T15:00:38.420000+03:00",
+            "originalStartDatetime": "2024-09-07T15:00:38.420000+03:00",
+            "port": "psychopy",
+            "startDatetime": "2024-09-07T15:00:38.420981+03:00",
+            "type": "instance",
+            "uuid": "1718d7e1-3c50-4725-ac69-ba0fc63495a7",
+            "value": "1"
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-09-07T15:00:40.419880+03:00",
+            "extras": {
+            },
+            "index": 18,
+            "label": "speech_end",
+            "originalEndDatetime": "2024-09-07T15:00:40.421000+03:00",
+            "originalStartDatetime": "2024-09-07T15:00:40.421000+03:00",
+            "port": "psychopy",
+            "startDatetime": "2024-09-07T15:00:40.419880+03:00",
+            "type": "instance",
+            "uuid": "cfb41bbf-dec7-4f9c-83ae-643662c4114a",
+            "value": "1"
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-09-07T15:00:47.419931+03:00",
+            "extras": {
+            },
+            "index": 19,
+            "label": "imagine_start",
+            "originalEndDatetime": "2024-09-07T15:00:47.420000+03:00",
+            "originalStartDatetime": "2024-09-07T15:00:47.420000+03:00",
+            "port": "psychopy",
+            "startDatetime": "2024-09-07T15:00:47.419931+03:00",
+            "type": "instance",
+            "uuid": "630d92b0-1ee4-4d52-a763-65812a52750d",
+            "value": "1"
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-09-07T15:00:49.418830+03:00",
+            "extras": {
+            },
+            "index": 20,
+            "label": "imagine_end",
+            "originalEndDatetime": "2024-09-07T15:00:49.420000+03:00",
+            "originalStartDatetime": "2024-09-07T15:00:49.420000+03:00",
+            "port": "psychopy",
+            "startDatetime": "2024-09-07T15:00:49.418830+03:00",
+            "type": "instance",
+            "uuid": "75558974-eee2-46c4-b7ee-464530877f05",
+            "value": "1"
+        }
+    ],
+    "connectionType": "dongle",
+    "demographics": {
+        "UserType": "Researcher",
+        "birthday": "1965-10-25",
+        "countryOfInfluence": {
+            "iso": "SA",
+            "printable": "Saudi Arabia"
+        },
+        "countryOfResidence": {
+            "iso": "SA",
+            "printable": "Saudi Arabia"
+        },
+        "education": "Prof. degree (medical, law, etc. )",
+        "gender": "M",
+        "handedness": "Right",
+        "languageAbility": "Multilingual",
+        "musicalAbility": "None"
+    },
+    "exportApp": "com.emotiv.emotivpro",
+    "exportTime": "2024-09-18T17:14:31.926+03:00",
+    "eyeActions": {
+        "Blink": 10,
+        "Look Left": -1,
+        "Look Right": 1,
+        "Neutral": 0,
+        "Wink Left": 11,
+        "Wink Right": 12
+    },
+    "facialExpressionActions": {
+        "Blink": 2,
+        "Clench Teeth": 256,
+        "Furrow Brows": 64,
+        "Horizontal Eye": 16,
+        "Laugh": 512,
+        "Neutral": 1,
+        "Raise Brows": 32,
+        "Smile": 128,
+        "Smirk Left": 1024,
+        "Smirk Right": 2048,
+        "Wink Left": 4,
+        "Wink Right": 8
+    },
+    "headsetType": "EPOCX",
+    "mappings": null,
+    "mentalCommandActions": {
+        "Disappear": 8192,
+        "Drop": 16,
+        "Left": 32,
+        "Lift": 8,
+        "Neutral": 1,
+        "Pull": 4,
+        "Push": 2,
+        "Right": 64,
+        "Rotate Backward": 4096,
+        "Rotate Clockwise": 512,
+        "Rotate Counter-Clockwise": 1024,
+        "Rotate Forward": 2048,
+        "Rotate Left": 128,
+        "Rotate Right": 256
+    },
+    "montageType": "UNKNOWN",
+    "recordId": "b74b2040-5cc5-4668-ac7d-3be0179f97ff",
+    "user": "yaemotiv"
+}
