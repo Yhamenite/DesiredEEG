@@ -36,6 +36,7 @@ word = {
     "yes":0,
     "no":1,
     "hellfire":2,
+    "helfire":2,
     "paradise":3
 }
 
